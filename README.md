@@ -3,6 +3,7 @@
 Web: https://leobhidd.github.io/web-portfolio/
 GitHub: https://github.com/leobhidd/web-portfolio
 API (health): http://localhost/8000/health
+API (docs): http://localhost/8000/docs
 
 # Portfolio técnico
 
